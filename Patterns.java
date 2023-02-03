@@ -9,13 +9,13 @@ public class Patterns {
      }
        }*/
 
-    for (int line = 1; line <= 5; line++) {
+ /*    for (int line = 1; line <= 5; line++) {
       for (int star = 5; star >= line; star--) {
         System.out.print("*");
       }
       System.out.println();
 
-    }
+    }*/
 
     /*  int n = 10;
     for(int line=1; line <= n; line++){
@@ -31,7 +31,7 @@ public class Patterns {
           }
           System.out.println(" ");
         } */
-    //---------------------------------------------------
+    
     /*  for (int i = 1; i <= 5; i++) {
           for (int j = 5; j >= i; j--) {
             System.out.print(i);
@@ -45,19 +45,19 @@ public class Patterns {
           count++;
         }while(count<10); */
     //--------------------------------------------------------
-    /*for (int line = 1; line <= 5; line++) {
-          for (int num = 1; num <= 5; num++) {
+  /* for (int line = 1; line <= 5; line++) {
+          for (int num = 1; num <= line; num++) {
             System.out.print(num);
           }
           System.out.println(" ");
         }*/
     //--------------------------------------------------------------
-    /* for (int i = 5; i >= 1; i--) {
+     for (int i = 5; i >= 1; i--) {
           for (int j = 1; j <= 5; j++) {
             System.out.print(i);
           }
           System.out.println(" ");
-        } */
+        } 
 
     /*for(int row = 5; row >= 1; row--){
         for(int col=1; col<=row; col++){
