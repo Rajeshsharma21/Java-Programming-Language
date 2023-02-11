@@ -8,12 +8,12 @@ public class Patterns {
       System.out.println();
     }*/
 
-     for (int line = 1; line <= 5; line++) {
+  /* for (int line = 1; line <= 5; line++) {
       for (int star = 5; star >= line; star--) {
         System.out.print("*");
       }
       System.out.println();
-    }
+    }*/
 
     /*  int n = 5;
     for (int line = 1; line <= n; line++) {
